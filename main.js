@@ -1,2 +1,2 @@
 var num = 50;
-var frase = "Ola mundo";
+var frase = "Ola terra plana";
